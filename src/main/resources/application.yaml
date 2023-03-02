@@ -1,0 +1,9 @@
+server:
+  port:8080
+
+astra:
+  token: "<change_me>"
+  db:
+    id: "<change_me>"
+    region: "<change_me>"
+    keyspace: "ethereum"
